@@ -38,7 +38,7 @@ export const SearchForm = ({ onSubmit, className }: Props) => {
     <Form onSubmit={onFormSubmit} className={className}>
       <SearchField
         type="text"
-        placeholder="Search Movies..."
+        placeholder="Search by title"
         name="search"
         ref={inputRef}
       />
