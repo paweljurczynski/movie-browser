@@ -24,5 +24,6 @@ REACT_APP_OMBD_API_KEY=YOUR_API_KEY yarn build
 
 - Caching requests
 - Pagination
-- Search by Year and other fields
+- Search by Year
 - RWD
+- Tests
