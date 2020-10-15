@@ -20,10 +20,11 @@ REACT_APP_OMBD_API_KEY=YOUR_API_KEY yarn test
 REACT_APP_OMBD_API_KEY=YOUR_API_KEY yarn build
 ```
 
-### Features to implement
+### Things to implement
 
+- Tests
 - Caching requests
 - Pagination
 - Search by Year
 - RWD
-- Tests
+- Cleanup
